@@ -1,4 +1,4 @@
-# lmao
+# Ralzik's Webshop, No VueX, just Vue, Firebase, JS, HTML and CSS.
 
 ## Project setup
 ```
